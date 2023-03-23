@@ -1,4 +1,4 @@
-# Lab_Assignment_7
+# Lab_Assignment7
 CS1 - Lab Assignment #7
 
 
